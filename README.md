@@ -1,2 +1,1 @@
 # obsidian-notes
-okk
